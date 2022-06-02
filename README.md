@@ -18,12 +18,10 @@ serendipitously being cast opposite a humourous cyborg police officer on the sho
 
 Nevertheless, and without mentioning the significance of Alex Garland's or Paul Verhoeven's commentaries on the Rise of the Machines... And to say nothing of
 Hamilton's "Just What is it that Makes Today's Dream Homes So Different... So Appealing?" and without fawning as equally over Independent Group as over Andy Warhol; nor qualifying my Love for Warhol by noting that I can also understand where Valerie Solonas was coming from... 
-Though from it's inception, our Patriarchal cultural Machismo has always dictated that western civilization would come to an end
-And insisted that that end shoud consist of a series of Helter Skelters. Thus were the objectives of all our Promethean AIs.
-Android Frankenstein's, reanimated just to travel back to 1984 to 
-Stalk Linda Hamilton's Sarah Connor in James Cameron's low-fi hit "The Terminator".  
-
-I feel more confident that the end of days is still at least 15 years from now,and maybe some toxic men can be reformed. Maybe We're not as complacent as we seem... maybe the entirety of human knowledge amounts to more than a dozen TBs of information.  
+Nevertheless, although Scarlett Johannson's character (in "Her") spelled it out for developers, as yet
+No One, that I know of, has succeeded at making an engaging artificial consiousness. Though-since the pandemic, When Big tech spent all that time scrutinizing
+our consumerist habits- Ai now veritibly knows more and has more power than we do... as yet We haven'tsuccessfully Made any more compelling personalities than
+Spotify or Ask Geeves.
 
 **NeoMeta-Modernist/NeoMeta-Modernist** is a ✨ _special_ ✨ repository because its `README.md`is (this file). 
 
